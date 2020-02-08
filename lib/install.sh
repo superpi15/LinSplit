@@ -83,10 +83,10 @@ bindKeyOrien()
 }
 
 echo "Registering configurations ... "
-bindKeyOrien 0 u "Aligh-Up"       "<Alt>w"
-bindKeyOrien 1 d "Aligh-Down"     "<Alt>x"
-bindKeyOrien 2 l "Aligh-Left"     "<Alt>a"
-bindKeyOrien 3 r "Aligh-Right"    "<Alt>d"
-bindKeyOrien 4 a "Aligh-Central"  "<Alt>s"
+bindKeyOrien 0 u "Aligh-Up"       "<Ctrl><Alt>w"
+bindKeyOrien 1 d "Aligh-Down"     "<Ctrl><Alt>x"
+bindKeyOrien 2 l "Aligh-Left"     "<Ctrl><Alt>a"
+bindKeyOrien 3 r "Aligh-Right"    "<Ctrl><Alt>d"
+bindKeyOrien 4 a "Aligh-Central"  "<Ctrl><Alt>s"
 echo "Installation terminated normally"
 
