@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="action" mtime="__TIME1__" type="string">
+		<stringvalue>__CMD__</stringvalue>
+	</entry>
+	<entry name="name" mtime="__TIME2__" type="string">
+		<stringvalue>__ACT__</stringvalue>
+	</entry>
+	<entry name="binding" mtime="__TIME3__" type="string">
+		<stringvalue>__KEY__</stringvalue>
+	</entry>
+</gconf>
